@@ -1,4 +1,3 @@
-Markdown
 # Real-Time AI Stock Analyst Pipeline 📊🤖
 
 An automated data pipeline that continuously monitors live market telemetry, evaluates asset volatility via programmatic filtering, synthesizes fundamental/macro market analysis using the Gemini LLM, and broadcasts interactive alerts to an enterprise monitoring gateway.
